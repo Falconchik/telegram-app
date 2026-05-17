@@ -12,6 +12,7 @@ import {
   FaCamera,
   FaDownload
 } from "react-icons/fa"
+console.log("WORKING")
 
 function App() {
 
