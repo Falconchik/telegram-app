@@ -256,7 +256,7 @@ function App() {
             textAlign: "center"
           }}
         >
-          CV Builder Pro
+          CV Builder 
         </motion.h1>
 
         <div style={{
